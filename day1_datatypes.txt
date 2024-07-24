@@ -1,0 +1,55 @@
+#python
+#.programming lang
+#.ml/dl
+#.high level
+#.oops
+#DATA TYPES
+#1.integer 2.float 3.string-by input data it will take default character-we wont take it 4.boolean 5.sets 6.tuples 7.list 8.dictionaries
+#PRINTING FORMATS:
+#1.how to print a stmt:we use print("information")
+#ex:print('helloworld') 
+#2.hello,your name
+#var1="python"
+#print("good morning",var1) o/p:good mrng python
+#.by default prints in newline
+#3.by dynamically
+#var assign from rgt-lft
+#name=input("enter your name")
+#print(name) o/p:enter your name:vaishu-vaishu
+#name=input("enter your name\n")-will print it in next line
+#4.fstring-formatted string//
+#ex:age =50
+#name:vaishu
+#require o/p:hello vaishu u r 50yrs old
+#//age=input("enter your age")
+#name=input("enter your name")
+#print(f"hello {name} you are {age} old")//
+#EXAMPLE:PRINT YOUR MARKS AND AVG WITH YOUR NAME
+#5.name=input("enter you name")input()
+#sub1=int(input("enter your marks"))//sub=int(input())//takes input and type caste to integer
+#sub2=int(input("enter your marks"))
+#sub3=int(input("enter your marks"))
+#sub4=int(input("enter your marks"))
+#sub5=int(input("enter your marks"))
+#sum=sub1+sub2+sub3+sub4+sub5 
+#marks=sum
+#avg=marks/5
+#print(f"hello {name} your {marks} and {avg}")
+#6.name=input()
+#print(name,end=" ")//end=" "-additional space//to get desire o/p
+#//CONDITIONAL STATEMENTS-checks the conditions
+#.if- similar to try
+#.elif-catch
+#.else-throw
+#//program for voting
+#name=input()
+#age=int(input())
+#if age>=18:
+#    print(f"hello {name} your {age} is eligible")
+#else :
+#    print(f"hello {name} your {age} is not eligible")
+
+
+
+
+
